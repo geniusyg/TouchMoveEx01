@@ -21,6 +21,7 @@
 		512493DE187DAB3600A43708 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 512493C0187DAB3500A43708 /* UIKit.framework */; };
 		512493E6187DAB3600A43708 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 512493E4187DAB3600A43708 /* InfoPlist.strings */; };
 		512493E8187DAB3600A43708 /* TouchMoveEx01Tests.m in Sources */ = {isa = PBXBuildFile; fileRef = 512493E7187DAB3600A43708 /* TouchMoveEx01Tests.m */; };
+		512493F2187DAB6700A43708 /* appleIcon.png in Resources */ = {isa = PBXBuildFile; fileRef = 512493F1187DAB6700A43708 /* appleIcon.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -53,6 +54,7 @@
 		512493E3187DAB3600A43708 /* TouchMoveEx01Tests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "TouchMoveEx01Tests-Info.plist"; sourceTree = "<group>"; };
 		512493E5187DAB3600A43708 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		512493E7187DAB3600A43708 /* TouchMoveEx01Tests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = TouchMoveEx01Tests.m; sourceTree = "<group>"; };
+		512493F1187DAB6700A43708 /* appleIcon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = appleIcon.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -112,6 +114,7 @@
 		512493C2187DAB3500A43708 /* TouchMoveEx01 */ = {
 			isa = PBXGroup;
 			children = (
+				512493F1187DAB6700A43708 /* appleIcon.png */,
 				512493CB187DAB3500A43708 /* AppDelegate.h */,
 				512493CC187DAB3500A43708 /* AppDelegate.m */,
 				512493CE187DAB3500A43708 /* Main.storyboard */,
@@ -231,6 +234,7 @@
 				512493D5187DAB3500A43708 /* Images.xcassets in Resources */,
 				512493C7187DAB3500A43708 /* InfoPlist.strings in Resources */,
 				512493D0187DAB3500A43708 /* Main.storyboard in Resources */,
+				512493F2187DAB6700A43708 /* appleIcon.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
